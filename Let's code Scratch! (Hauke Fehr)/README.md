@@ -1,4 +1,4 @@
-# Programmiercode aus dem Buch "Let's code Scratch!" von Haue Fehr
+# Programmiercode aus dem Buch "Let's code Scratch!" von Hauke Fehr
 
 1. Datei mit Programmiercode aus diesem Ordner herunterladen.
 2. Scratch starten.
